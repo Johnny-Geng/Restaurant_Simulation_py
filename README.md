@@ -11,8 +11,10 @@ This program written in Python simulates a day in a restaurant.<br/>
     - Prices and item descriptions are attached
   - Eating
   - Paying
-    - The total cost of the meal will be calculated and present at this stage
+    - The total cost of the meal will be calculated and presented to the diner at this stage
   - Leaving
 - The program runs until 10 p.m. when the restaurant closes.
 
-## Related Topics:<br/>
+## Purpose:<br/>
+This program is designed to demonstrate the fundamentals of Python including topics such as: <br>
+strings, loops, lists, dictionaries, functions, files, and object-oriented programming, etc.
