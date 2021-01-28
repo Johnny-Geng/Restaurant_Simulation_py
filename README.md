@@ -16,5 +16,5 @@ This program written in Python simulates a day in a restaurant.<br/>
 - The program runs until 10 p.m. when the restaurant closes.
 
 ## Purpose:<br/>
-This comprehensive program is designed to demonstrate the fundamentals of Python including topics such as: <br>
+This comprehensive program is designed to demonstrate the fundamentals of Python including main topics such as: <br>
 strings, loops, lists, dictionaries, functions, files, and object-oriented programming, etc.
