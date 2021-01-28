@@ -1,4 +1,4 @@
-# Restaurant_Simulation_py_ult
+# Restaurant_Simulation_py
 This program written in Python simulates a day in a restaurant.<br/>
 ***Run.py*** is the file that launches the program.<br/>
 ## Logistics:<br/>
